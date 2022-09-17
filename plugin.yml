@@ -1,0 +1,12 @@
+# Plugin : By SlaxxyQC
+
+name: EnderChest
+version: 1.0.0
+api: 4.0.0
+author: SlaxxyQC
+main: SlaxxyQC\EnderChest\EnderChest
+
+permissions:
+  ec.use:
+    description: Permission pour ouvrir son ec
+    default: op
