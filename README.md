@@ -1,0 +1,2 @@
+# EnderChest
+EnderChestCommand /ec /enderchest
